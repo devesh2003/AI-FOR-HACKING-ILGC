@@ -8,7 +8,7 @@
 
 
 ## Architecture
-The bigram model is based on the transformer acrhitecture which can be visualised as follows
+The bigram model is based on the transformer architecture which can be visualised as follows
 
 ![image](https://github.com/devesh2003/AI-FOR-HACKING-ILGC/assets/43497480/a490b4d1-7f81-4641-bb89-306db6db1e97)
 
